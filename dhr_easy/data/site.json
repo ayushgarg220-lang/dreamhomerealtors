@@ -1,28 +1,26 @@
 {
-  "content": {
-    "settings": {
-      "siteName": "Dream Home Realtors",
-      "phone": "+91 84483 43985",
-      "whatsapp": "918448343985",
-      "email": "dreamhomerealtors51@gmail.com",
-      "office": "Greater Noida, Uttar Pradesh"
-    },
-    "projects": [
-      {"name":"Elite-X","location":"Sector 10, Greater Noida West","type":"Project","bhk":"3 & 4 BHK","price":"₹2.10 Cr* onwards","tag":"Premium","image":"dhr_easy/assets/elite-x/cabana.webp","url":"project-elite-x.html","description":"Premium 3 BHK, 3 BHK + Study and 4 BHK + Servant Quarters apartments."},
-      {"name":"Gaur NYC","location":"Greater Noida","type":"Project","bhk":"Premium Residences","price":"Price on Request","tag":"Featured","image":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=85","url":"#contact","description":"Premium residential development. Contact for current inventory and site visit."},
-      {"name":"Sobha Rivana","location":"Sector 1, Greater Noida West","type":"Project","bhk":"3 & 4 BHK","price":"Price on Request","tag":"Premium","image":"https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1200&q=85","url":"project-sobha-rivana.html","description":"Contemporary luxury residences with premium lifestyle amenities."},
-      {"name":"Godrej Arden","location":"Greater Noida","type":"Project","bhk":"2, 3 & 4 BHK","price":"Price on Request","tag":"Featured","image":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=85","url":"project-godrej-arden.html","description":"Premium residences designed for modern family living."},
-      {"name":"Ivory County","location":"Sector 115, Noida","type":"Project","bhk":"Premium Residences","price":"Price on Request","tag":"Premium","image":"https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=85","url":"#contact","description":"Premium residential development in Noida. Contact for current inventory and site visit."},
-      {"name":"Sikka Kaamya Greens","location":"Greater Noida","type":"Project","bhk":"Premium Residences","price":"Price on Request","tag":"Featured","image":"https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=85","url":"#contact","description":"Residential project with lifestyle-focused living. Contact for latest availability."},
-      {"name":"Cherry County","location":"Greater Noida West","type":"Project","bhk":"2 & 3 BHK","price":"Price on Request","tag":"Featured","image":"dhr_easy/assets/cherry-county/11340452-3434-43bf-a6d2-dafbbb09a77f.jpg","url":"project-cherry-county.html","description":"Spacious homes with excellent connectivity and lifestyle amenities."},
-      {"name":"Gaur Alaris","location":"Sector 22D, Yamuna Expressway, Greater Noida","type":"Project","bhk":"3 BHK & 3 BHK + Study","price":"Price on Request","tag":"New Launch","image":"dhr_easy/assets/Gaur Alaris/building-facade.webp","url":"project-gaur-alaris.html","description":"Premium residences at Sector 22D, Yamuna Expressway."},
-      {"name":"ACE Arte","location":"Noida","type":"Project","bhk":"Premium Residences","price":"Price on Request","tag":"Premium","image":"dhr_easy/assets/Ace Arte/Tower Entry.png","url":"project-ace-arte.html","description":"Premium residential project with project and lifestyle imagery."},
-      {"name":"Eldeco Echo of Eden","location":"Greater Noida","type":"Project","bhk":"Premium Residences","price":"Price on Request","tag":"Featured","image":"dhr_easy/assets/eldeco-echo of eden/Front.webp","url":"project-eldeco-echoes-of-eden.html","description":"Premium residential development with lifestyle amenities."},
-      {"name":"Prateek Canary","location":"Noida","type":"Project","bhk":"Premium Residences","price":"Price on Request","tag":"Featured","image":"dhr_easy/assets/Prateek Canary/Front.webp","url":"project-prateek-canary.html","description":"Premium residential project with project and lifestyle imagery."}
-    ],
-    "properties": [
-      {"name":"Elite-X 4 BHK Residence","location":"Sector 10, Greater Noida West","type":"Apartment","bhk":"4 BHK","price":"₹2.10 Cr* onwards","tag":"Premium","image":"dhr_easy/assets/elite-x/fp-4bhk-crop.webp","description":"Premium 4 BHK residence at Elite-X."},
-      {"name":"Elite-X 3 BHK + Study","location":"Sector 10, Greater Noida West","type":"Apartment","bhk":"3 BHK + Study","price":"₹2.10 Cr* onwards","tag":"Featured","image":"dhr_easy/assets/elite-x/fp-3bhk-study-crop.webp","description":"Thoughtfully planned 3 BHK + Study residence at Elite-X."}
-    ]
-  }
+  "settings": {
+    "siteName": "Dream Home Realtors",
+    "phone": "+91 84483 43985",
+    "whatsapp": "918448343985",
+    "email": "dreamhomerealtors51@gmail.com",
+    "office": "Greater Noida, Uttar Pradesh"
+  },
+  "projects": [
+    {"name":"Elite-X","location":"Sector 10, Greater Noida West","type":"Project","bhk":"3 & 4 BHK","price":"₹2.10 Cr* onwards","tag":"Premium","image":"dhr_easy/assets/elite-x/cabana.webp","url":"project-elite-x.html","description":"Premium 3 BHK, 3 BHK + Study and 4 BHK + Servant Quarters apartments."},
+    {"name":"Gaur NYC","location":"Greater Noida","type":"Project","bhk":"Premium Residences","price":"Price on Request","tag":"Featured","image":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=85","url":"#contact","description":"Premium residential development. Contact for current inventory and site visit."},
+    {"name":"Sobha Rivana","location":"Sector 1, Greater Noida West","type":"Project","bhk":"3 & 4 BHK","price":"Price on Request","tag":"Premium","image":"https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1200&q=85","url":"project-sobha-rivana.html","description":"Contemporary luxury residences with premium lifestyle amenities."},
+    {"name":"Godrej Arden","location":"Greater Noida","type":"Project","bhk":"2, 3 & 4 BHK","price":"Price on Request","tag":"Featured","image":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=85","url":"project-godrej-arden.html","description":"Premium residences designed for modern family living."},
+    {"name":"Ivory County","location":"Sector 115, Noida","type":"Project","bhk":"Premium Residences","price":"Price on Request","tag":"Premium","image":"https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=85","url":"#contact","description":"Premium residential development in Noida. Contact for current inventory and site visit."},
+    {"name":"Sikka Kaamya Greens","location":"Greater Noida","type":"Project","bhk":"Premium Residences","price":"Price on Request","tag":"Featured","image":"https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=85","url":"#contact","description":"Residential project with lifestyle-focused living. Contact for latest availability."},
+    {"name":"Cherry County","location":"Greater Noida West","type":"Project","bhk":"2 & 3 BHK","price":"Price on Request","tag":"Featured","image":"dhr_easy/assets/cherry-county/11340452-3434-43bf-a6d2-dafbbb09a77f.jpg","url":"project-cherry-county.html","description":"Spacious homes with excellent connectivity and lifestyle amenities."},
+    {"name":"Gaur Alaris","location":"Sector 22D, Yamuna Expressway, Greater Noida","type":"Project","bhk":"3 BHK & 3 BHK + Study","price":"Price on Request","tag":"New Launch","image":"dhr_easy/assets/Gaur Alaris/building-facade.webp","url":"project-gaur-alaris.html","description":"Premium residences at Sector 22D, Yamuna Expressway."},
+    {"name":"ACE Arte","location":"Sector 150, Noida","type":"Project","bhk":"3 & 4 BHK","price":"Price on Request","tag":"Premium","image":"dhr_easy/assets/Ace Arte/Tower Entry.png","url":"project-ace-arte.html","description":"Premium residential project in Sector 150, Noida."},
+    {"name":"Eldeco Echo of Eden","location":"Sector 22D, Yamuna Expressway, Greater Noida","type":"Project","bhk":"3 & 4 BHK","price":"Price on Request","tag":"Featured","image":"dhr_easy/assets/eldeco-echo of eden/Front.webp","url":"project-eldeco-echoes-of-eden.html","description":"Premium residential development with lifestyle amenities."},
+    {"name":"Prateek Canary","location":"Sector 150, Noida","type":"Project","bhk":"3, 4 & 6 BHK","price":"Price on Request","tag":"Featured","image":"dhr_easy/assets/Prateek Canary/Front.webp","url":"project-prateek-canary.html","description":"Premium residential project in Sector 150, Noida."}
+  ],
+  "properties": [
+    {"name":"Elite-X 4 BHK Residence","location":"Sector 10, Greater Noida West","type":"Apartment","bhk":"4 BHK","price":"₹2.10 Cr* onwards","tag":"Premium","image":"dhr_easy/assets/elite-x/fp-4bhk-crop.webp","description":"Premium 4 BHK residence at Elite-X."},
+    {"name":"Elite-X 3 BHK + Study","location":"Sector 10, Greater Noida West","type":"Apartment","bhk":"3 BHK + Study","price":"₹2.10 Cr* onwards","tag":"Featured","image":"dhr_easy/assets/elite-x/fp-3bhk-study-crop.webp","description":"Thoughtfully planned 3 BHK + Study residence at Elite-X."}
+  ]
 }
