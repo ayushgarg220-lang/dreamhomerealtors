@@ -64,7 +64,7 @@ footer{background:#0b0b0b;color:#aaa;padding:55px 0 20px}.foot{display:grid;grid
 <script>
 let DATA;
 async function load(){
- try{DATA=await fetch('data/site.json?'+Date.now()).then(r=>r.json());}
+ try{DATA=await fetch('dhr_easy/data/site.json?'+Date.now()).then(r=>r.json());}
  catch(e){return;}
  const s=DATA.settings;
  document.getElementById('topPhone').textContent=s.phone;
