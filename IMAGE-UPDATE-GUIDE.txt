@@ -1,0 +1,32 @@
+DREAM HOME REALTORS – QUICK PROJECT IMAGE UPDATE
+
+You do NOT need to edit HTML for normal project image changes.
+
+1. Extract this ZIP on your computer.
+2. Open the assets folder.
+3. Open the project folder you want to update.
+4. Replace the image file with your new image, keeping EXACTLY the same filename.
+5. Keep the image in the same folder.
+6. ZIP the whole website folder again OR upload the website folder to Netlify.
+
+CHERRY COUNTY
+assets/cherry-county/hero.png        = Main hero image
+assets/cherry-county/showcase.png    = Main project/gallery image
+assets/cherry-county/floor-plan.png  = Floor plan / apartment image
+
+ELITE-X
+assets/elite-x/commercial-plaza.webp
+assets/elite-x/cabana.webp
+assets/elite-x/badminton.webp
+assets/elite-x/banquet.webp
+assets/elite-x/fitness.webp
+
+IMPORTANT
+- Do not rename the files unless you also change the HTML.
+- Best practice: use JPG or PNG and keep the existing extension for the easiest replacement.
+- If your new photo is a different format, save/export it using the same extension as the old file.
+- You can replace images whenever you get new project photos; the website design stays unchanged.
+
+CONTACT DETAILS ALREADY SET
+Phone / WhatsApp: +91 84483 43985
+Email: dreamhomerealtors51@gmail.com
