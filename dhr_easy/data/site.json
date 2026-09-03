@@ -50,24 +50,24 @@
   ],
   "properties": [
     {
-      "name": "Luxury 4 BHK Residence",
-      "location": "Greater Noida West",
+      "name": "Elite-X 4 BHK Residence",
+      "location": "Sector 10, Greater Noida West",
       "type": "Apartment",
       "bhk": "4 BHK",
-      "price": "₹2.50 Cr* onwards",
+      "price": "₹2.10 Cr* onwards",
       "tag": "Premium",
-      "image": "dhr_easy/assets/cherry-county/filename.webp",
-      "description": "Premium residence with modern interiors and lifestyle amenities."
+      "image": "dhr_easy/assets/elite-x/fp-4bhk-crop.webp",
+      "description": "Premium 4 BHK residence at Elite-X with spacious planning and premium lifestyle amenities."
     },
     {
-      "name": "Premium 3 BHK",
-      "location": "Sector 1, Greater Noida West",
+      "name": "Elite-X 3 BHK + Study",
+      "location": "Sector 10, Greater Noida West",
       "type": "Apartment",
-      "bhk": "3 BHK",
-      "price": "₹1.45 Cr* onwards",
+      "bhk": "3 BHK + Study",
+      "price": "₹2.10 Cr* onwards",
       "tag": "Featured",
-      "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=85",
-      "description": "Modern interiors, spacious rooms and premium amenities."
+      "image": "dhr_easy/assets/elite-x/fp-3bhk-study-crop.webp",
+      "description": "Thoughtfully planned 3 BHK + Study residence at Elite-X."
     }
   ]
 }
